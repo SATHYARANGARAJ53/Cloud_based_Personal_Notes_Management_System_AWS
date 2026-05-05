@@ -4,7 +4,7 @@
 # S3 => backup repository(cloud archival storage)
 
 
-# in ubuntu -> commands
+# in ubuntu terminal -> commands to execute
 
 # sudo apt update
 # sudo apt install python3-pip -y
